@@ -14,23 +14,7 @@ The Repair Kit contains all the basic tools to repair the electronics or small c
 
 ## How to build
 
-This #ASKmod is based on a [Tool bag + soldering iron](https://askotec.openculture.agency/product/tool-bag-soldering-iron/) with the following modifications:
-
-We added a 
-
-- [Battery Soldering Iron](https://askotec.openculture.agency/product/battery-soldering-iron/)
-- [LED Tester](https://askotec.openculture.agency/product/led-tester/)
-- [Solder roll](https://askotec.openculture.agency/product/solder-roll/)
-- [Soldering Grease](https://askotec.openculture.agency/product/soldering-grease/)
-- [Soldering tip](https://askotec.openculture.agency/product/soldering-tip/)
-- [Universal Mobile repair Kit](https://askotec.openculture.agency/product/universal-mobile-repair-kit/)
-- [Wire Cutter](https://askotec.openculture.agency/product/wire-cutter/)
-- [Black Iso Tape](https://askotec.openculture.agency/product/black-iso-tape/)
-- [1,5 V AA Batteries](https://askotec.openculture.agency/product/15-v-aa-batteries/)
-- [Copper Solder Cleaner](https://askotec.openculture.agency/product/copper-solder-cleaner/)
-
-
-to the original tool bag.
+This #ASKmod is based on the [Tool bag + soldering iron](https://askotec.openculture.agency/product/tool-bag-soldering-iron/) with a soldering iron and the content of the modification can be seen on the [CONTENT file](CONTENT.md).
 
 ## Developers
 
