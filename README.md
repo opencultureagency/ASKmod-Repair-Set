@@ -4,11 +4,11 @@
 
 The Repair Kit contains all the basic tools to repair the electronics or small components of a device. You can not only repair with it, but also build something. Various tools are included, such as soldering irons, screwdrivers, pliers or fine tools. You can use the set for the following scenarios, for example:
 
-- Repair bicycles
-- Repair cars
+- Some soldering
+- Create new electonic devides
 - Other medium and large machines
 
-![#ASKmod Repair Set](/images/askmod-repair-set.jpg)
+![#ASKmod Repair Set](images/askmod-repair-set.jpg)
 
 ### [View product in #ASKotec Stockroom](https://askotec.openculture.agency/product/askmod-repair-set/)
 
@@ -23,7 +23,7 @@ If you have any questions or suggestions, feel free to [write us an issue](https
 
 ## Release Notes
 
-- [v.1.0](https://github.com/opencultureagency/ASKmod-Repair-Set/tree/v.1.0.0): tool bag + soldering iron + some other items see the [content file](CONTENT.MD)
+- [v.1.0.0](https://github.com/opencultureagency/ASKmod-Repair-Set/tree/v.1.0.0): tool bag + soldering iron + some other items see the [content file](CONTENT.MD)
 
 ## Contributers
 
