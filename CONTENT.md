@@ -6,7 +6,7 @@
 
 ## Repair Set
 
-![#ASKmod Repair Set](https://github.com/opencultureagency/ASKmod-Repair-Set/blob/ac20d04f66ba83faf16fedec73b0940cf5452202/images/askmod-repair-set.jpg)
+![#ASKmod Repair Set](https://raw.githubusercontent.com/opencultureagency/ASKmod-Repair-Set/ac20d04f66ba83faf16fedec73b0940cf5452202/images/askmod-repair-set.jpg)
 
 ## Items
 
