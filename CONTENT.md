@@ -1,6 +1,6 @@
 # #ASKmod Content
 
-| Version: | 1.0.0        |
+| Version: | 1.1.0        |
 | -------- | ------------ |
 | License: | [CC-BY-SA 4.0](LICENSE.md) |
 
