@@ -23,7 +23,10 @@ If you have any questions or suggestions, feel free to [write us an issue](https
 
 ## Release Notes
 
-- [v.1.0.0](https://github.com/opencultureagency/ASKmod-Repair-Set/tree/v.1.0.0): tool bag + soldering iron + some other items see the [content file](CONTENT.MD)
+- [v.1.1.0](https://github.com/opencultureagency/ASKmod-Repair-Set/tree/v.1.0.0): tool bag + soldering iron + some other items see the [content file](CONTENT.md)
+    - removed unnecessary items to reduce weight: pliers, wire clipper, solder, tiny screwdrivers
+    - plus added the solder cleaner (originally in the removed solder stand)
+- [v.1.0.0](https://github.com/opencultureagency/ASKmod-Repair-Set/tree/v.1.0.0): tool bag + soldering iron + some other items see the [content file](CONTENT.md)
 
 ## Contributers
 
