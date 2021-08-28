@@ -16,7 +16,6 @@
 - 1x [Solder roll](https://askotec.openculture.agency/product/solder-roll/)
 - 1x [Soldering Grease](https://askotec.openculture.agency/product/soldering-grease/)
 - 1x [Soldering tip](https://askotec.openculture.agency/product/soldering-tip/)
-- 1x [Universal Mobile repair Kit](https://askotec.openculture.agency/product/universal-mobile-repair-kit/)
 - 1x [Wire Cutter](https://askotec.openculture.agency/product/wire-cutter/)
 - 1x [Black Iso Tape](https://askotec.openculture.agency/product/black-iso-tape/)
 - 1x [Copper Solder Cleaner](https://askotec.openculture.agency/product/copper-solder-cleaner/)
